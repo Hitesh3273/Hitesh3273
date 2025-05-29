@@ -7,35 +7,32 @@
 💡 Passionate about **Web Development, React.js, and Backend Technologies**  
 🔍 Open to roles in **Software Development, Full-Stack Development, and Frontend Engineering**
 
+### 🌱 Currently Learning
+- **Core Java** & **Advanced Backend Technologies**
+
+### 📫 Reach Me:
+- **Email:** barihitesh615@gmail.com  
+- **LinkedIn:** [Hitesh Bari](https://linkedin.com/in/hitesh-bari)  
+- **Instagram:** [mr.hitesh_bari_](https://instagram.com/mr.hitesh_bari_)  
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="SQL" width="40" height="40"/>
+</p>
+
 ---
 
-## 💻 Tech Stack:
-🔹 **Languages:** Java, JavaScript, SQL  
-🔹 **Frontend:** HTML, CSS, React.js  
-🔹 **Backend:** Node.js, Express  
-🔹 **Database:** PostgreSQL, MongoDB  
-🔹 **Tools:** Git, VS Code, Docker  
-
----
-
-## 🏆 Featured Projects:
-✨ **[Project 1](https://github.com/your-username/project1)** – A React-based e-commerce app with dynamic UI.  
-✨ **[Project 2](https://github.com/your-username/project2)** – Backend API for customer data using Node.js & SQL.
-
----
-
-## 🚀 GitHub Stats:
+## 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hitesh3273&show_icons=true&locale=en" alt="hitesh3273" /></p>
 
 📈 **Top Languages:**  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesh3273&show_icons=true&locale=en&layout=compact" alt="hitesh3273" /></p>
 
 ---
-
-## 📫 Connect with Me:
-🔗 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/hitesh-bari)  
-📧 **Email:** barihitesh615@gmail.com  
-🌐 **Portfolio:** [your-website.com](https://your-website.com)  
 
 🔍 **Looking for job opportunities! Open to collaboration & hiring.**  
 Feel free to reach out for networking or career discussions. 🚀
