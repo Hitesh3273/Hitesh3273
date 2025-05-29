@@ -12,11 +12,12 @@
 
 ### 📫 Reach Me:
 - **Email:** barihitesh615@gmail.com  
-- **LinkedIn:** [Hitesh Bari](https://linkedin.com/in/hitesh-bari)  
+- **LinkedIn:** [Hitesh Bari](https://www.linkedin.com/in/hitesh3273/)
 - **Instagram:** [mr.hitesh_bari_](https://instagram.com/mr.hitesh_bari_)  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
