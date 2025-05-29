@@ -8,7 +8,7 @@
 🔍 Open to roles in **Software Development, Full-Stack Development, and Frontend Engineering**
 
 ### 🌱 Currently Learning
-- **Core Java** & **Advanced Backend Technologies**
+- **Backend Technologies**
 
 ### 📫 Reach Me:
 - **Email:** barihitesh615@gmail.com  
