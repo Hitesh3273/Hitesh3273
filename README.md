@@ -1,4 +1,4 @@
-## Animation type GitHub streak
+## ⚡⚡⚡⚡⚡⚡⚡⚡
 
 <picture>
   <source
